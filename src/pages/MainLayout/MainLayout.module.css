@@ -1,0 +1,22 @@
+.remove-icon {
+  cursor: pointer;
+  color: red;
+}
+.remove-icon:hover {
+  opacity: 0.8;
+}
+.atm-img {
+  pointer-events: none;
+}
+.list-container {
+  display: flex;
+  font-size: 18px;
+  /* background-color: #eee; */
+  flex-wrap: wrap;
+}
+.item-container {
+  /* background-color: #fff; */
+  /* border: 1px solid black; */
+  padding: 10px;
+  /* margin: 15px 50px; */
+}
